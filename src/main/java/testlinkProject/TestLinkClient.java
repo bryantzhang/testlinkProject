@@ -1,4 +1,4 @@
-package com.ebay.renzhang.testlinkProject;
+package testlinkProject;
 
 import java.util.ArrayList;
 import br.eti.kinoshita.testlinkjavaapi.model.Build;

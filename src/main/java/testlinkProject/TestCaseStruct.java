@@ -1,4 +1,4 @@
-package com.ebay.renzhang.testlinkProject;
+package testlinkProject;
 
 public class TestCaseStruct {
 	String className;

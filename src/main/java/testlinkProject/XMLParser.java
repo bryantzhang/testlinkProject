@@ -1,4 +1,4 @@
-package com.ebay.renzhang.testlinkProject;
+package testlinkProject;
 
 import java.io.BufferedReader;
 import java.io.IOException;

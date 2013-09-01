@@ -1,4 +1,4 @@
-package com.ebay.renzhang.testlinkProject;
+package testlinkProject;
 
 import java.io.IOException;
 import java.io.PrintWriter;
